@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 ### 自己紹介
 情報系の大学生です．
 
+そろそろtypescriptについて学習しようと考えています．
+
+### コンタクト
+twitter : [@masa-devpro](https://twitter.com/masa_devpro)
+
 ### 使用言語
 [![Javascript](https://img.shields.io/badge/-Javascript-blue.svg?logo=javascript&style=popout)](https://developer.mozilla.org/ja/docs/Web/JavaScript)
 [![Html5](https://img.shields.io/badge/-Html5-252525.svg?logo=html5&style=popout)](https://developer.mozilla.org/ja/docs/Web/HTML)
@@ -30,5 +35,4 @@ Here are some ideas to get you started:
 
 ### 詳細
 [![masa-dev's github stats](https://github-readme-stats.vercel.app/api?username=masa-dev&show_icons=true&theme=gruvbox)](https://github.com/masa-dev/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masa-dev&langs_count=8&theme=gruvbox)](https://github.com/masa-dev)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masa-dev&langs_count=8&theme=gruvbox)](https://github.com/masa-dev/)
