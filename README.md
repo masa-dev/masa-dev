@@ -25,12 +25,12 @@ twitter : [@masa_devpro](https://twitter.com/masa_devpro)
 
 ### 使用言語
 [![JavaScript](https://img.shields.io/badge/-JavaScript-blue.svg?logo=javascript&style=popout)](https://developer.mozilla.org/ja/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/-Html5-252525.svg?logo=html5&style=popout)](https://developer.mozilla.org/ja/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/-Css3-blue.svg?logo=css3&style=popout)](https://developer.mozilla.org/ja/docs/Web/CSS)
+[![HTML5](https://img.shields.io/badge/-HTML5-252525.svg?logo=html5&style=popout)](https://developer.mozilla.org/ja/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/-CSS3-blue.svg?logo=css3&style=popout)](https://developer.mozilla.org/ja/docs/Web/CSS)
 
 ### フレームワーク・ライブラリ
 [![Vue.js](https://img.shields.io/badge/-Vue.js-lightcyan.svg?logo=vue.js&style=popout)](https://jp.vuejs.org/)
-[![jQuery](https://img.shields.io/badge/-Jquery-0769AD.svg?logo=jquery&style=popout)](https://jquery.com/)
+[![jQuery](https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=popout)](https://jquery.com/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=popout)](https://getbootstrap.jp/)
 
 ### 詳細
