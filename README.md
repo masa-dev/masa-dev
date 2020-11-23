@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 twitter : [@masa_devpro](https://twitter.com/masa_devpro)
 
 ### 使用言語
-[![JavaScript](https://img.shields.io/badge/-Javascript-blue.svg?logo=javascript&style=popout)](https://developer.mozilla.org/ja/docs/Web/JavaScript)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-blue.svg?logo=javascript&style=popout)](https://developer.mozilla.org/ja/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/-Html5-252525.svg?logo=html5&style=popout)](https://developer.mozilla.org/ja/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/-Css3-blue.svg?logo=css3&style=popout)](https://developer.mozilla.org/ja/docs/Web/CSS)
 
