@@ -34,5 +34,5 @@ twitter : [@masa_devpro](https://twitter.com/masa_devpro)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=popout)](https://getbootstrap.jp/)
 
 ### 詳細
-[![masa-dev's github stats](https://github-readme-stats.vercel.app/api?username=masa-dev&show_icons=true&theme=gruvbox)](https://github.com/masa-dev/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masa-dev&langs_count=8&theme=gruvbox)](https://github.com/masa-dev/)
+[![masa-dev's github stats](https://github-readme-stats.vercel.app/api?username=masa-dev&show_icons=true&theme=gruvbox)](https://github.com/masa-dev/)
