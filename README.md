@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 そろそろtypescriptについて学習しようと考えています．
 
 ### コンタクト
-twitter : [@masa_devpro](https://twitter.com/masa_devpro)
+twitter : [@masa_devpro](https://twitter.com/masa_devpro)<br>
+mail : [masa.devpro@gmail.com](mailto:masa.devpro@gmail.com)
 
 ### 使用言語
 [![JavaScript](https://img.shields.io/badge/-JavaScript-blue.svg?logo=javascript&style=popout)](https://developer.mozilla.org/ja/docs/Web/JavaScript)
