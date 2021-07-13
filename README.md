@@ -28,6 +28,7 @@ mail : [masa.devpro@gmail.com](mailto:masa.devpro@gmail.com)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-blue.svg?logo=javascript&style=popout)](https://developer.mozilla.org/ja/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/-HTML5-252525.svg?logo=html5&style=popout)](https://developer.mozilla.org/ja/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/-CSS3-blue.svg?logo=css3&style=popout)](https://developer.mozilla.org/ja/docs/Web/CSS)
+[![SCSS](https://img.shields.io/badge/-SCSS-f7d9e8.svg?logo=sass&style=popou)](https://sass-lang.com/)
 
 ### フレームワーク・ライブラリ
 [![Vue.js](https://img.shields.io/badge/-Vue.js-lightcyan.svg?logo=vue.js&style=popout)](https://jp.vuejs.org/)
