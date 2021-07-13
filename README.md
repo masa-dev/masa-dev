@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ### 自己紹介
-情報系の大学生です．
+情報系の大学生です。
 
-そろそろtypescriptについて学習しようと考えています．
+Web系に興味があります。
 
 ### コンタクト
 twitter : [@masa_devpro](https://twitter.com/masa_devpro)<br>
