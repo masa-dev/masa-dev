@@ -36,7 +36,7 @@ mail : [masa.devpro@gmail.com](mailto:masa.devpro@gmail.com)
 
 ### ⚡フレームワーク・ライブラリ
 [![Vue.js](https://img.shields.io/badge/-Vue.js-lightcyan.svg?logo=vue.js&style=popout)](https://jp.vuejs.org/)
-[![React.js](https://img.shields.io/badge/-React-ebfffb.svg?logo=react&style=popout)](https://ja.reactjs.org/)
+[![React](https://img.shields.io/badge/-React-282c34.svg?logo=react&style=popout)](https://ja.reactjs.org/)
 [![jQuery](https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=popout)](https://jquery.com/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=popout)](https://getbootstrap.jp/)
 
