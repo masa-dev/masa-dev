@@ -28,6 +28,7 @@ mail : [masa.devpro@gmail.com](mailto:masa.devpro@gmail.com)
 [![Docker](https://img.shields.io/badge/-Docker-c7dded.svg?logo=docker&style=popout)](https://www.docker.com/)
 
 ### 🔭使用言語
+[![C#](https://img.shields.io/badge/-C%23-8669AE.svg?logo=dotnet&style=popout)](https://docs.microsoft.com/ja-jp/dotnet/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-blue.svg?logo=javascript&style=popout)](https://developer.mozilla.org/ja/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/-HTML5-252525.svg?logo=html5&style=popout)](https://developer.mozilla.org/ja/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/-CSS3-blue.svg?logo=css3&style=popout)](https://developer.mozilla.org/ja/docs/Web/CSS)
@@ -35,6 +36,7 @@ mail : [masa.devpro@gmail.com](mailto:masa.devpro@gmail.com)
 [![PHP](https://img.shields.io/badge/-PHP-ebe8e4.svg?logo=php&style=popout)](https://www.php.net/)
 
 ### ⚡フレームワーク・ライブラリ
+[![Laravel](https://img.shields.io/badge/-Laravel-f7d7d2.svg?logo=laravel&style=popout)](http://laravel.jp/)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-lightcyan.svg?logo=vue.js&style=popout)](https://jp.vuejs.org/)
 [![React](https://img.shields.io/badge/-React-282c34.svg?logo=react&style=popout)](https://ja.reactjs.org/)
 [![jQuery](https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=popout)](https://jquery.com/)
@@ -42,8 +44,6 @@ mail : [masa.devpro@gmail.com](mailto:masa.devpro@gmail.com)
 
 
 ### 🌱学習中
-[![C#](https://img.shields.io/badge/-C%23-8669AE.svg?logo=dotnet&style=popout)](https://docs.microsoft.com/ja-jp/dotnet/)
-[![Laravel](https://img.shields.io/badge/-Laravel-f7d7d2.svg?logo=laravel&style=popout)](http://laravel.jp/)
 [![React](https://img.shields.io/badge/-React-282c34.svg?logo=react&style=popout)](https://ja.reactjs.org/)
 
 ### 詳細
